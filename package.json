@@ -1,0 +1,20 @@
+{
+  "name": "ts_ex_13",
+  "version": "1.0.0",
+  "description": "typescript first examination ",
+  "main": "ts_ex_13",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ts_ex"
+  ],
+  "author": "Stateira Mehtari",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "flowbite": "^1.8.1"
+  }
+}
